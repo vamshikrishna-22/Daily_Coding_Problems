@@ -1,6 +1,6 @@
 
 
-public class Pair_Day5<T> {
+public class Day5<T> {
 
     private T a;
     private T b;
