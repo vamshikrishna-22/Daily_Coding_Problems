@@ -9,7 +9,7 @@ Any live cell with two or three live neighbours remains living.
 Any live cell with more than three live neighbours dies.
 Any dead cell with exactly three live neighbours becomes a live cell.
 A cell neighbours another cell if it is horizontally, vertically, or diagonally adjacent.
- * @author rushvikallampally
+ * @author kyatham vamshi krishna
  *
  */
 
