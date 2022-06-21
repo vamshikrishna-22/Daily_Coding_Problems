@@ -11,7 +11,11 @@ it should return {{}, {1}, {2}, {3}, {1, 2}, {1, 3}, {2, 3}, {1, 2, 3}}.
 
 You may also use a list or array to represent a set.
 
+<<<<<<< HEAD
  * @author rushvikallampally
+=======
+ * @author kyatham vamshi krishna
+>>>>>>> 87cbb47e30df77fb91ce3238128033022d3011d8
  *
  */
 public class Day37 {
